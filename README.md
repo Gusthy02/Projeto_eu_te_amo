@@ -22,7 +22,7 @@ A página é simples, mas feita com todo o amor do mundo. Ela traz:
 
 Acesse o site: [https://seuprojeto.vercel.app](https://projeto-eu-te-amoo.vercel.app/)
 
-<img src="https://github.com/GusThyerris/projeto-eu-te-amo/blob/main/assets/site-img-1.png?raw=true" alt="imagem da página principal do site" />
+<img src="./assets/site-img-1.png" alt="imagem da página principal do site" />
 
 ---
 
