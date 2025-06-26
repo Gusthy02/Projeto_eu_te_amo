@@ -22,7 +22,7 @@ A página é simples, mas feita com todo o amor do mundo. Ela traz:
 
 Acesse o site: [https://seuprojeto.vercel.app](https://projeto-eu-te-amoo.vercel.app/)
 
-![preview](./screenshot.png)
+<img ssrc="./assets/site-img-1.png" alt="imagem da página principal do site">
 
 ---
 
