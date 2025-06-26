@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ee9bbb&height=180&section=header&animation=twinkling"/>
+
 # 💖 Projeto Eu Te Amo, Adria 🌸
 
 > Uma homenagem feita com amor, código e corações flutuantes.  
